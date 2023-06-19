@@ -71,18 +71,17 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className="text-3xl py-1 dark:text-white ">Services I offer</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">My Work Specialization</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
-              <span className="text-teal-500"> agencies </span>
-              consulted for <span className="text-teal-500">startups </span>
+            experience in software development, design of standalone and web-based applications using Java, J2EE and Spring Framework and Front End Framework like Angular 8. Bringing domain experience with project and product development experience.
+              {/* <span className="text-teal-500"> agencies </span> */}
+              {/* consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
-              for both business and consumer use.
+              for both business and consumer use. */}
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I offer from a wide range of services, including brand design,
-              programming and teaching.
+              I create from a wide range of services, including website design,
+              backend coding and cloud deployment.
             </p>
           </div>
           <div className="lg:flex gap-10">
