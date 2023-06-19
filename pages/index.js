@@ -80,7 +80,7 @@ export default function Home() {
               for both business and consumer use. */}
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I create from a wide range of services, including website design,
+              I create from a wide range of applications including website design,
               backend coding and cloud deployment.
             </p>
           </div>
@@ -95,10 +95,10 @@ export default function Home() {
                 design theory.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
+              <p className="text-gray-800 py-1">HTML</p>
+              <p className="text-gray-800 py-1">CSS</p>
+              <p className="text-gray-800 py-1">Angular</p>
               <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">Indesign</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={code} width={100} height={100} />
@@ -109,41 +109,40 @@ export default function Home() {
                 Do you have an idea for your next great website? Let's make it a
                 reality.
               </p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">Indesign</p>
+              <h4 className="py-4 text-teal-600">Java Technology I Use</h4>
+              <p className="text-gray-800 py-1">Java</p>
+              <p className="text-gray-800 py-1">Spring Boot</p>
+              <p className="text-gray-800 py-1">Microservices</p>
+              <p className="text-gray-800 py-1">J2EE</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={consulting} width={100} height={100} />
-              <h3 className="text-lg font-medium pt-8 pb-2 ">Consulting</h3>
+              <h3 className="text-lg font-medium pt-8 pb-2 ">Cloud Deployment</h3>
               <p className="py-2">
-                Are you interested in feedback for your current project? I can
-                give you tips and tricks to level it up.
+                I can create solution for java application like spring boot, microservices
               </p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">Indesign</p>
+              <h4 className="py-4 text-teal-600">Cloud Tools I Use</h4>
+              <p className="text-gray-800 py-1">Docker</p>
+              <p className="text-gray-800 py-1">Kubernetes</p>
+              <p className="text-gray-800 py-1">AWS</p>
+              <p className="text-gray-800 py-1">Terraform</p>
             </div>
           </div>
         </section>
         <section className="py-10">
           <div>
-            <h3 className="text-3xl py-1 dark:text-white ">Portofolio</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">Portfolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
-              <span className="text-teal-500"> agencies </span>
-              consulted for <span className="text-teal-500">startups </span>
-              and collaborated with talanted people to create digital products
+              Since the beginning of my journey as a designer and
+              developer, I've worked for
+              <span className="text-teal-500"> companies </span>
+              including for <span className="text-teal-500">small scale </span>
+              companies and now working with bigger companies to create digital products
               for both business and consumer use.
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              I offer from a wide range of services, including brand design,
-              programming and teaching.
+              I develop a wide range of applications, including websites,
+              enterprise application and now cloud solutions.
             </p>
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
